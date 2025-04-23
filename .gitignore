@@ -21,4 +21,14 @@ env/
 .idea/
 
 # Misc
-.DS_Store 
+.DS_Store
+
+# ClinicalT5-pytorch model files
+ClinicalT5-pytorch/
+*.bin
+config.json
+generation_config.json
+special_tokens_map.json
+spiece.model
+tokenizer_config.json
+tokenizer.json 
