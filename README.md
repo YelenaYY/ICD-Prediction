@@ -106,7 +106,6 @@ Main dependencies include:
 - Transformers
 - pandas
 - scikit-learn
-- tqdm
 
 See `environment.yml` for complete list.
 
@@ -116,6 +115,4 @@ See `environment.yml` for complete list.
 - The project uses Flax weights converted to PyTorch format
 - Large model files are ignored by git (see .gitignore)
 
-## License
 
-[Add your license information here]
